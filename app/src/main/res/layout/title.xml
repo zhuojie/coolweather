@@ -10,7 +10,7 @@
         android:layout_marginLeft="10dp"
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
-        android:background="@drawable/home3"/>
+        android:background="@drawable/home8"/>
     <TextView
         android:id="@+id/title_city"
         android:layout_width="wrap_content"
